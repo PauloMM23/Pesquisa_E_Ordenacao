@@ -1,2 +1,2 @@
-# Pesquisa_E_Ordenacao
+# Pesquisa e Ordenação
 Programa trabalhado em aula.
